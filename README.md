@@ -1,5 +1,7 @@
 Simple TypeScript + React project
+
 Used fake RestAPI - https://fakestoreapi.com/docs
+
 Created with Create React App (TypeScript template)
 
 TypeScript + React + Redux toolkid + RKT Query
