@@ -1,0 +1,39 @@
+.goods{
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    margin-bottom: 100px;
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: white;
+    flex-direction: column;
+}
+
+.img{
+    flex: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.price{
+    font-size: 20px;
+}
+
+.rate{
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.rate > span{
+    color: yellow;
+}

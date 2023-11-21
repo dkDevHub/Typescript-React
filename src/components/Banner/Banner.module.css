@@ -1,0 +1,21 @@
+.banner{
+    width: 100vw;
+    height: 300px;
+    background-color: tomato;
+
+    margin-top: 16px;
+    background-image: url("../../../public/banner.jpg");
+    background-size: cover;
+    background-position: 0 30%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    color: white;
+    font-size: 40px;
+    
+}
+
